@@ -1,6 +1,6 @@
 Package.describe({
   name: "zeta:gravatar",
-  summary: "Displays the gravatar image for an email address",
+  summary: "Displays gravatar image for an email address",
   version: "1.0.0",
   git: "https://github.com/bsdnoobz/meteor-gravatar.git"
 });
