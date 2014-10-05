@@ -7,6 +7,7 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('METEOR@0.9.3.1');
+  api.use('underscore');
   api.addFiles('gravatar.js', 'client');
   api.export('Gravatar');
 });
